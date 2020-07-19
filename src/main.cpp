@@ -1,6 +1,8 @@
+#include <ArduinoOTA.h>
 
 #include <ESP8266WiFi.h>
-#include <ArduinoOTA.h>
+
+
 #include <PubSubClient.h>
 #include <WiFiManager.h>                    //https://github.com/tzapu/WiFiManager
 #include <MD_MAX72xx.h>
@@ -69,6 +71,7 @@ bool newMessageAvailable = false;
 
 bool matrix_state = true;
 
+/*
 char *err2Str(wl_status_t code)
 {
   switch (code)
@@ -81,6 +84,8 @@ char *err2Str(wl_status_t code)
     default: return ("??");
   }
 }
+*/
+
 
 void OTA_setup (void)
 {
