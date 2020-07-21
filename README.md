@@ -14,5 +14,3 @@ https://github.com/tzapu/WiFiManager.git
 https://github.com/MajicDesigns/MD_MAX72XX.git
 - PubSubClient
 https://github.com/knolleary/pubsubclient.git
-
-Translated with www.DeepL.com/Translator (free version)
