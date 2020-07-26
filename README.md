@@ -1,4 +1,6 @@
-# MqttTicker
+
+# WifiMqttOta
+## Short Description
 MAX7219 Mqtt Ticker
 
 Little nice project with an ESP8266 and a MAX7219 module. 
@@ -14,5 +16,15 @@ https://github.com/tzapu/WiFiManager.git
 https://github.com/MajicDesigns/MD_MAX72XX.git
 - PubSubClient
 https://github.com/knolleary/pubsubclient.git
+
+## How to use
+Please download the whole project and open it direktly in Visual Studio Code. 
+PlatformIO Extension is necessary.
+
+## further informations
+none
+
+## Links
+see above.
 
 ![](https://github.com/AndreasHuth/MqttTicker/blob/master/20200721_213043.jpg)
